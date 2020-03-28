@@ -1,0 +1,10 @@
+Status: Using GLEW 1.11.0
+OpenGL version recieved: 3.3.0
+Supported OpenGL is 3.3 (Compatibility Profile) Mesa 19.1.4
+Supported GLSL is 1.50
+hello
+Status: Using GLEW 1.11.0
+OpenGL version recieved: 3.3.0
+Supported OpenGL is 3.3 (Compatibility Profile) Mesa 19.1.4
+Supported GLSL is 1.50
+hello
